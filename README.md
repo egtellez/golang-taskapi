@@ -5,8 +5,8 @@ Depends on gin-gonic golang REST API Framework (Located at: https://github.com/g
 
 Implements these REST Methods:
 
-GET /tasks
-POST /tasks
+GET /tasks, 
+POST /tasks, 
 DELETE /tasks/:taskid
 
 task database is currently a json file called tasks.json
